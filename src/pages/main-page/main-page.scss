@@ -1,0 +1,9 @@
+.main-page {
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content 1fr;
+
+  padding-bottom: 40px;
+}

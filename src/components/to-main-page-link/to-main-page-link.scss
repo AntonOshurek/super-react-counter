@@ -1,0 +1,12 @@
+.mainpage-link {
+  &:hover {
+    opacity: 1;
+    & path {
+      fill: #fff;
+    }
+  }
+
+  &:active path {
+    opacity: 0.8;
+  }
+}

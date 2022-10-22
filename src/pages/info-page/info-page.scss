@@ -1,0 +1,33 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.info__title {
+  font-size: 38px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.info__text {
+  color: #f8f8f8;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.info__socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.info__social-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
