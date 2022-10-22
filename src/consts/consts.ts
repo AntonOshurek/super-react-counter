@@ -1,5 +1,5 @@
 export enum AppRoute {
-  ROOT = '/',
-  ROOT_SETTINGS = '/settings',
-  ROOT_INFO = '/info',
+  ROOT = '/super-react-counter',
+  ROOT_SETTINGS = '/super-react-counter/settings',
+  ROOT_INFO = '/super-react-counter/info',
 }
