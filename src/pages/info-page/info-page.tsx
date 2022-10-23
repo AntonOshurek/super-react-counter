@@ -9,7 +9,23 @@ const InfoPage = ():JSX.Element => {
       <p className="info__text">
         Hi everyone! My name is Anton and this is my super counter!
       </p>
-      <h3 className="info__text">technologies stack</h3>
+      <div className="info__stack">
+        <h3 className="info__subtitle">technologies stack:</h3>
+        <ul className="info__text info__stack-list">
+          <li>
+            <code>javaScript</code>
+          </li>
+          <li>
+            <code>TypeScript</code>
+          </li>
+          <li>
+            <code>Redux</code>
+          </li>
+          <li>
+            <code>SASS</code>
+          </li>
+        </ul>
+      </div>
       <p className="info__text">
         Check all my projects in my GitHub profile :) and subscribe in another's social media.
       </p>
