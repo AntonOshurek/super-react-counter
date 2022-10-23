@@ -46,12 +46,12 @@ const Counter = ():JSX.Element => {
       }
 
       <div className='counter__controls'>
-        <button className='counter__control-button' type='button' onClick={inc}>
+        <button className='counter__control-button unselectable' type='button' onClick={inc}>
           <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48">
             <path fill='#f8f8f8' d="M21.75 38.75V26.3H9.25v-4.55h12.5V9.25h4.55v12.5h12.5v4.55H26.3v12.45Z"/>
           </svg>
         </button>
-        <button className='counter__control-button' type='button' onClick={dec}>
+        <button className='counter__control-button unselectable' type='button' onClick={dec}>
           <svg xmlns="http://www.w3.org/2000/svg" height="48" width="48">
             <path fill='#f8f8f8' d="M9.25 26.3v-4.55h29.5v4.55Z"/>
           </svg>
