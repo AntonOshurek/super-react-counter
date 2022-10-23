@@ -47,5 +47,4 @@ const InfoPage = ():JSX.Element => {
   )
 }
 
-export default InfoPage
-;
+export default InfoPage;
