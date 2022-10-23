@@ -1,9 +1,10 @@
 ![commits](https://img.shields.io/github/last-commit/AntonOshurek/super-react-counter?style=plastic)
 ![lang](https://img.shields.io/github/languages/top/AntonOshurek/super-react-counter)
 
-# Poland Currency Converter :slot_machine:
+# Super React Counter :) :slot_machine:
 This application set **increment** or **decrement** for the main value.
-***[Gh-Pages Here :point_right:](https://antonoshurek.github.io/super-react-counter/):bank:***
+
+***[:point_right: Gh-Pages Here](https://antonoshurek.github.io/super-react-counter/):bank:***
 
 ## Technologies stack
 
